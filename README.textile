@@ -1,0 +1,7 @@
+h1. Parenthetically Speaking
+
+A keynote address on what I learned from SICP.
+
+Given at:
+* Scottish Ruby Conference
+* Red Dirt Ruby Conference
