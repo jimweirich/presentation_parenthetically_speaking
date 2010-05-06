@@ -1,0 +1,12 @@
+From SICP, Section 3.1, footnote 11:
+
+In view of this, it is ironic that introductory programming is most
+often taught in a highly imperative style. This may be a vestige of a
+belief, common throughout the 1960s and 1970s, that programs that call
+procedures must inherently be less efficient than programs that
+perform assignments. (Steele (1977) debunks this argument.)
+Alternatively it may reflect a view that step-by-step assignment is
+easier for beginners to visualize than procedure call. Whatever the
+reason, it often saddles beginning programmers with ``should I set
+this variable before or after that one'' concerns that can complicate
+programming and obscure the important ideas.
