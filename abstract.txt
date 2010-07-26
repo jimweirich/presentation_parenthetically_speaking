@@ -1,0 +1,7 @@
+<!-- -*- mode: textile; fill-column: 1000000; -*- -->
+
+Parenthetically Speaking
+
+In any discussion on how to improve your programming skills, one book gets more recommendations than any other: "The Structure and Interpretation of Computer Programs" (SICP) by Abelson and Sussman. SICP was the introductory computer science text at MIT for many years.  But how much could a professional developer really learn from a first year CS book?
+
+Last fall I embarked on an adventure and invited folks to join me in a weekly study of SICP.  We worked the examples and compared our answers.  I am here today to share what mind blowing concepts we discovered in just the first two chapters of SICP.  Expect to see some Ruby code like you've never seen before.
